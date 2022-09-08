@@ -1,0 +1,4 @@
+C:/JSON/json-tutorial/tutorial01/build/CMakeFiles/leptjson.dir
+C:/JSON/json-tutorial/tutorial01/build/CMakeFiles/leptjson_test.dir
+C:/JSON/json-tutorial/tutorial01/build/CMakeFiles/ALL_BUILD.dir
+C:/JSON/json-tutorial/tutorial01/build/CMakeFiles/ZERO_CHECK.dir

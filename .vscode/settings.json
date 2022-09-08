@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+    
+        "activityBar.background": "#1c2e3f",
+        "titleBar.activeBackground": "#1c2e3f",
+        "titleBar.activeForeground": "#f1f4f7"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/tutorial01"
+}
