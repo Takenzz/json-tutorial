@@ -1,0 +1,4 @@
+C:/JSON/json-tutorial/tutorial05/build/CMakeFiles/leptjson.dir
+C:/JSON/json-tutorial/tutorial05/build/CMakeFiles/leptjson_test.dir
+C:/JSON/json-tutorial/tutorial05/build/CMakeFiles/edit_cache.dir
+C:/JSON/json-tutorial/tutorial05/build/CMakeFiles/rebuild_cache.dir

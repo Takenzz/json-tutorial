@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/JSON/json-tutorial/tutorial05/build",
+  "command": "C:\\mingw64\\bin\\clang.exe  -ansi -pedantic -Wall -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\leptjson.dir\\leptjson.c.obj -c C:\\JSON\\json-tutorial\\tutorial05\\leptjson.c",
+  "file": "C:\\JSON\\json-tutorial\\tutorial05\\leptjson.c"
+},
+{
+  "directory": "C:/JSON/json-tutorial/tutorial05/build",
+  "command": "C:\\mingw64\\bin\\clang.exe  -ansi -pedantic -Wall -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\leptjson_test.dir\\test.c.obj -c C:\\JSON\\json-tutorial\\tutorial05\\test.c",
+  "file": "C:\\JSON\\json-tutorial\\tutorial05\\test.c"
+}
+]
